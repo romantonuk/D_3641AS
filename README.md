@@ -3,7 +3,7 @@
 [[Forks]][forks-url]
 [[Stargazers]][stars-url]
 [[Issues]][issues-url]
-[[Project License]][license-url]
+[[Project License]][license]
 
 
 <h3 align="center">D_3641AS</h3>
