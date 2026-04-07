@@ -45,7 +45,7 @@ See [documentation] for more information.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT licence. See `LICENSE` for more information.
+Distributed under the MIT licence. See [license] for more information.
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/romantonuk/D_3641AS/graphs/contributors
@@ -56,5 +56,5 @@ Distributed under the MIT licence. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/romantonuk/D_3641AS/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/romantonuk/D_3641AS/blob/main/LICENSE
+[license]: https://github.com/romantonuk/D_3641AS/blob/main/LICENSE
 [documentation]: https://github.com/romantonuk/D_3641AS/blob/main/DOCUMENTATION.md
