@@ -49,7 +49,7 @@ Distributed under the MIT licence. See [license] for more information.
 
 [contributors-shield]: https://img.shields.io/github/contributors/romantonuk/D_3641AS.svg?style=for-the-badge
 [contributors-url]: https://github.com/romantonuk/D_3641AS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/romantonuk/D_3641ASsvg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/romantonuk/D_3641AS.svg?style=for-the-badge
 [forks-url]: https://github.com/romantonuk/D_3641AS/network/members
 [stars-shield]: https://img.shields.io/github/stars/romantonuk/D_3641AS.svg?style=for-the-badge
 [stars-url]: https://github.com/romantonuk/D_3641AS/stargazers
