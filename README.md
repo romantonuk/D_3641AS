@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license]
+[![License][license-shield]][license]
 
 
 <h3 align="center">D_3641AS</h3>
