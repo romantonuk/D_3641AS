@@ -19,5 +19,6 @@ DESCRIPTION : Driver for 3641AS module used for communicating with module using 
 PLACEMENT : Inside DefaultSoftDrivers_3641AS namespace.
 
 
-Check this [example] for detailed usage.
+### Check this [example] for detailed usage.
+
 [example]: https://github.com/romantonuk/D_3641AS/blob/main/examples/Simple/simple.ino
