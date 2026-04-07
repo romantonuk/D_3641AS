@@ -4,7 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <h3 align="center">D_3641AS</h3>
@@ -34,23 +33,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This library is made for ease-of-use. Many libraries have a class for using module, but this library has a driver struct and functions.
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+See documentation-url for more information.
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT licence. See `LICENSE.txt` for more information.
+Distributed under the MIT licence. See `LICENSE` for more information.
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/romantonuk/D_3641AS/graphs/contributors
@@ -61,4 +56,5 @@ Distributed under the MIT licence. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/romantonuk/D_3641AS/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/romantonuk/D_3641AS/blob/master/LICENSE.txt
+[license-url]: https://github.com/romantonuk/D_3641AS/LICENSE
+[documentation-url]: https://github.com/romantonuk/D_3641AS/DOCUMENTATION.md
