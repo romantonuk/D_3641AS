@@ -1,9 +1,10 @@
 <!-- PROJECT SHIELDS -->
-[[Contributors]][contributors-url]
-[[Forks]][forks-url]
-[[Stargazers]][stars-url]
-[[Issues]][issues-url]
-[[Project License]][license]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <h3 align="center">D_3641AS</h3>
@@ -47,7 +48,7 @@ See [documentation] for more information.
 
 Distributed under the MIT licence. See [license] for more information.
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/romantonuk/D_3641AS.svg?style=for-the-badge
 [contributors-url]: https://github.com/romantonuk/D_3641AS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/romantonuk/D_3641AS/network/members
