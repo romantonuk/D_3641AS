@@ -1,3 +1,5 @@
+// this example uses wiring from examples/wiring.png
+
 #include "d_3641AS.h"
 
 using namespace d_3641AS;
