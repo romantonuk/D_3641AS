@@ -39,7 +39,7 @@ This library is made for ease-of-use. Many libraries have a class for using modu
 <!-- GETTING STARTED -->
 ## Getting Started
 
-See [documentation-url] for more information.
+See [documentation] for more information.
 
 
 <!-- LICENSE -->
@@ -57,4 +57,4 @@ Distributed under the MIT licence. See `LICENSE` for more information.
 [issues-url]: https://github.com/romantonuk/D_3641AS/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/romantonuk/D_3641AS/blob/main/LICENSE
-[documentation-url]: https://github.com/romantonuk/D_3641AS/DOCUMENTATION.md
+[documentation]: https://github.com/romantonuk/D_3641AS/blob/main/DOCUMENTATION.md
