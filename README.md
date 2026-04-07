@@ -1,9 +1,9 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![Stargazers]][stars-url]
-[![Issues]][issues-url]
-[![Project License]][license-url]
+[[Contributors]][contributors-url]
+[[Forks]][forks-url]
+[[Stargazers]][stars-url]
+[[Issues]][issues-url]
+[[Project License]][license-url]
 
 
 <h3 align="center">D_3641AS</h3>
