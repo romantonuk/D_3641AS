@@ -56,5 +56,5 @@ Distributed under the MIT licence. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/romantonuk/D_3641AS/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/romantonuk/D_3641AS/LICENSE.txt
+[license-url]: https://github.com/romantonuk/D_3641AS/LICENSE
 [documentation-url]: https://github.com/romantonuk/D_3641AS/DOCUMENTATION.md
